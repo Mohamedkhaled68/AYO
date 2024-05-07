@@ -1,0 +1,19 @@
+.details{
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.details h1{
+    font-weight: 200;
+    font-size: 4rem;
+}
+.details p{
+    font-weight: 200;
+    font-size: 2rem;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 2rem;
+}
+.details button{
+    font-size: 0.7rem;
+}

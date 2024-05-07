@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Sleep Problems",
+        "description": "Misaligned circadian rhythm often is associated with difficulties falling asleep, waking up and excessive daytime sleepiness.",
+        "imgUrl": "/assets/images/sleep.svg"
+    },
+    {
+        "id": 2,
+        "name": "Low Energy",
+        "description": "Circadian rhythm disorders are associated with fatigue and reduced cellular energy production.",
+        "imgUrl": "/assets/images/energy.svg"
+    },
+    {
+        "id": 3,
+        "name": "Weight Gain",
+        "description": "An irregular circadian rhythm greatly contributes to obesity, insulin resistance and metabolic disorders.",
+        "imgUrl": "/assets/images/weight.svg"
+    },
+    {
+        "id": 4,
+        "name": "Low Mood",
+        "description": "Circadian disruption often contributes to depression, anxiety, bipolar disorder and seasonal affective disorder",
+        "imgUrl": "/assets/images/mood.svg"
+    },
+    {
+        "id": 5,
+        "name": "Aging",
+        "description": "Out-of-sync circadian rhythm is associated with aging and morbidity while good circadian health is paramount to longevity.",
+        "imgUrl": "/assets/images/heart.svg"
+    },
+    {
+        "id": 6,
+        "name": "+ Every modern disease",
+        "description": "From cardiovascular disorders to cancer. Sounds incredible? Just Google “circadian rhythm” + any ailment.",
+        "imgUrl": "/assets/images/earth.svg"
+    }
+]

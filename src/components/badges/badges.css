@@ -1,0 +1,11 @@
+.badge-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 5rem;
+    margin: 3rem 0;
+    flex-wrap: wrap;
+}
+.badge-container img {
+    width: 8.5rem;
+}

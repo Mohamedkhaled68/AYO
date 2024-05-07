@@ -1,0 +1,53 @@
+.cards {
+    margin-top: 5rem;
+}
+
+.cards h1 {
+    font-weight: 200;
+    font-size: 3.5rem;
+    text-align: center;
+    width: 70%;
+    margin: auto;
+}
+
+.cards-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+.card-container {
+    background: rgb(255, 96, 123);
+    background: linear-gradient(
+        138deg,
+        rgba(255, 96, 123, 1) 0%,
+        rgba(255, 255, 255, 0) 51%
+    );
+    position: relative;
+    padding-inline: 1rem;
+    padding: 1rem;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 400px;
+    box-shadow: 5px 5px 10px #797979;
+}
+
+.card-container h2 {
+    font-weight: 200;
+    font-size: 2rem;
+}
+.card-container p {
+    font-weight: 200;
+    font-size: 1rem;
+    margin-top: 0.5rem;
+}
+
+.card-container .card-icon {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+}
